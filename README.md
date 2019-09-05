@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ernest0vm/iOS_ImagePicker.svg?branch=master)](https://travis-ci.org/ernest0vm/iOS_ImagePicker)
+
 # iOS_ImagePicker
 Example to access to gallery, camera or photo roll, pick an image from this and use in our app
 
