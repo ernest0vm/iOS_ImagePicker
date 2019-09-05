@@ -1,0 +1,6 @@
+os: osx
+language: swift
+osx_image: xcode10.3
+xcode_project: ImagePicker.xcodeproj
+xcode_scheme: ImagePicker
+xcode_destination: platform=iOS Simulator,OS=12.4,name=iPhone X
